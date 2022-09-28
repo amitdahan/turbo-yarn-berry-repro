@@ -1,0 +1,9 @@
+{
+  "packageManager": "yarn@3.2.3",
+  "devDependencies": {
+    "turbo": "^1.5.4"
+  },
+  "scripts": {
+    "build": "turbo build"
+  }
+}
